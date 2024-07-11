@@ -4,7 +4,7 @@ Driver Drowsiness Detection is a project aimed at preventing accidents caused by
 
 ## Features
 
-- Real-time face detection and tracking using Haar cascade classifier.
+- Real-time face detection using Haar cascade classifier.
 - Eye aspect ratio (EAR) calculation to detect eye closure.
 - Lip distance calculation to detect yawning.
 - Auditory and visual alerts when drowsiness is detected.
